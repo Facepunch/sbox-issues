@@ -2,4 +2,4 @@
 
 ## Reporting a Vulnerability
 
-To report a vunerability please email garry@facepunchstudios.com
+To report a vulnerability please email garry@facepunchstudios.com
