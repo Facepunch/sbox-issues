@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**What it it**
+**What it is**
 
 
 **What it should be**
