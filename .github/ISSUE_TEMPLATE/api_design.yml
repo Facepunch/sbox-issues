@@ -1,0 +1,27 @@
+name: Api Design
+description: Something in the API makes no sense and could be better
+labels: ["api design"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: what-is-it
+    attributes:
+      label: What it is?
+      description: What doesn't make sense?
+      placeholder: ex. Vector3 is not a good name for a vector
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-should-it-be
+    attributes:
+      label: What should it be?
+      description: What should it be instead?
+      placeholder: ex. Vec3 is a better name because...
+    validations:
+      required: true
