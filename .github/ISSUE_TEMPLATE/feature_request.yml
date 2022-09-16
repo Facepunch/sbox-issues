@@ -46,4 +46,4 @@ body:
     id: extra-context
     attributes:
       label: Additional context
-      description: Any extra deails on the feature you're requesting
+      description: Any extra details on the feature you're requesting
