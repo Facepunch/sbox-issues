@@ -8,6 +8,10 @@ Please add a 👍 thumbs up reaction on issues as an upvote to track [priority](
 
 If you've found a security exploit, please report it privately by emailing garry@facepunch.com
 
+## Proton
+
+For compatibility issues with Proton refer to [this issue](https://github.com/ValveSoftware/Proton/issues/4940).
+
 ## Other Resources
 
 * [SBox Dev Site](https://sbox.facepunch.com/dev/)
