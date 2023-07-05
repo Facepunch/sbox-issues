@@ -1,0 +1,19 @@
+name: Documentation problem
+description: Something is unclear in the api documentation
+labels:
+  - documentation
+body:
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      placeholder: e.g https://asset.party/api/Rotation.Random
+    validations:
+      required: true 
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+    validations:
+      required: true 

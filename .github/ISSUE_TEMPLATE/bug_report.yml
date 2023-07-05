@@ -1,16 +1,20 @@
 name: Bug report
-description: Create a report to help us improve
+description: Something isn't working as expected
 labels:
   - bug
 body:
+  - type: markdown
+    attributes:
+      value: |
+        🔎 Search existing issues to avoid creating duplicates.
   - type: textarea
     id: describe
     attributes:
       label: Describe the bug
       description: >-
-        Give a detailed description on the bug you're facing. The more details
-        the better
-      placeholder: When I try to...
+        Write a short summary of the bug
+      placeholder: >
+        Try to state the actual problem, and not just what you think the solution might be.
     validations:
       required: true
   - type: textarea

@@ -1,7 +1,7 @@
 name: Feature request
-description: Suggest an idea for this project
+description: Suggest something you want to be able to do but can't.
 labels:
-  - feature
+  - feature request
 body:
   - type: dropdown
     id: product
