@@ -10,7 +10,7 @@ This is not the place for help and support. You can ask for help from the commun
 
 ## Security Exploits
 
-If you've found a security exploit, please report it privately by emailing garry@facepunch.com
+If you've found a security exploit, please report it by visiting https://facepunch.com/security
 
 ## Reporting Bugs
 
