@@ -4,6 +4,8 @@ This is the [s&box](https://sbox.facepunch.com/) issue tracker. You can report b
 
 Please add a 👍 thumbs up reaction on issues as an upvote to track [priority](https://github.com/Facepunch/sbox-issues/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) from the community, instead of saying "+1" or "bump".
 
+The issues are triaged and organised in the [s&box tracker project](https://github.com/orgs/Facepunch/projects/24/views/1).
+
 ## Help and Support
 
 This is not the place for help and support. You can ask for help from the community as well as discuss game updates on the official [Discord server](https://discord.gg/sbox) or on the [Facepunch Forum](https://forum.facepunch.com).
