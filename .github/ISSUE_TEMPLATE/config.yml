@@ -1,8 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Question
-    url: https://discord.gg/sbox
-    about: Have a quick question? You can ask it on the discord
-  - name: Sandbox Game
-    url: https://github.com/Facepunch/sandbox/issues/new
-    about: Please report issues with the Sandbox gamemode here
+  - name: View Documentation
+    url: https://docs.facepunch.com/s/sbox-dev
+    about: Check the documentation to see if that solves your issue
