@@ -8,7 +8,7 @@ The issues are triaged and organised in the [s&box tracker project](https://gith
 
 ## Help and Support
 
-This is not the place for help and support. You can ask for help from the community as well as discuss game updates on the official [Discord server](https://discord.gg/sbox) or on the [Facepunch Forum](https://forum.facepunch.com).
+This is not the place for help and support. You can ask for help from the community as well as discuss game updates on the official [Discord server](https://discord.gg/sbox).
 
 ## Security Exploits
 
@@ -37,5 +37,4 @@ For compatibility issues with Proton refer to [this issue](https://github.com/Va
 
 * [Dev Blogs](https://sbox.facepunch.com/)
 * [asset.party](https://asset.party/)
-* [Facepunch Forum](https://forum.facepunch.com/)
 * [Wiki](https://wiki.facepunch.com/sbox/)
