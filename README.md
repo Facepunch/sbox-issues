@@ -36,6 +36,6 @@ For compatibility issues with Proton refer to [this issue](https://github.com/Va
 ## Other Resources
 
 * [Dev Blogs](https://sbox.facepunch.com/)
-* [asset.party](https://asset.party/)
+* [sbox.game](https://sbox.game/)
 * [Wiki](https://wiki.facepunch.com/sbox/)
 * [Facepunch Docs](https://docs.facepunch.com/s/sbox-dev/doc/sbox-documentation-iWNhAIdqPB)
