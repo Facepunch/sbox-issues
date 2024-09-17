@@ -9,7 +9,7 @@ body:
       label: For?
       multiple: true
       options:
-        - S&Box
+        - s&box
         - Hammer
         - Material Editor
         - Source Film Maker

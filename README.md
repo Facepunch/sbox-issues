@@ -1,4 +1,4 @@
-# S&box Issues 
+# s&box Issues 
 
 This is the [s&box](https://sbox.facepunch.com/) issue tracker. You can report bugs and request features here. This is not a place to ask for help.
 
