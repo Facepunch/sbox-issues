@@ -1,5 +1,6 @@
 name: Api Design
 description: Something in the API is unclear and could be better
+type: Enhancement
 labels:
   - api design
 body:

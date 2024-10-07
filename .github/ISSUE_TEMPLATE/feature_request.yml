@@ -1,21 +1,7 @@
 name: Feature request
 description: Suggest something you want to be able to do but can't.
-labels:
-  - feature request
+type: Enhancement
 body:
-  - type: dropdown
-    id: product
-    attributes:
-      label: For?
-      multiple: true
-      options:
-        - S&Box
-        - Hammer
-        - Material Editor
-        - Source Film Maker
-        - Other
-    validations:
-      required: true
   - type: textarea
     id: what-cant-you-do
     attributes:

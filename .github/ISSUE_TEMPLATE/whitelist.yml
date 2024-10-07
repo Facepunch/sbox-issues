@@ -1,5 +1,6 @@
 name: Whitelist
 description: I want to access something I can't
+type: Task
 labels:
   - whitelist
 body:
