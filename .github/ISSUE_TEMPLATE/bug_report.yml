@@ -6,6 +6,16 @@ body:
     attributes:
       value: |
         🔎 Search existing issues to avoid creating duplicates.
+  - type: dropdown
+    id: branch
+    attributes:
+      label: Branch
+      description: Which branch is this bug occurring on?
+      options:
+        - staging
+        - release
+    validations:
+      required: true
   - type: textarea
     id: describe
     attributes:
