@@ -1,6 +1,6 @@
 # S&box Issues 
 
-This is the [s&box](https://sbox.facepunch.com/) issue tracker. You can report bugs and request features here. This is not a place to ask for help.
+This is the [s&box](https://sbox.game/) issue tracker. You can report bugs and request features here. This is not a place to ask for help.
 
 Please add a 👍 thumbs up reaction on issues as an upvote to track [priority](https://github.com/Facepunch/sbox-issues/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) from the community, instead of saying "+1" or "bump".
 
@@ -8,7 +8,7 @@ The issues are triaged and organised in the [s&box tracker project](https://gith
 
 ## Help and Support
 
-This is not the place for help and support. You can ask for help from the community as well as discuss game updates on the official [Discord server](https://discord.gg/sbox).
+This is not the place for help and support. You can ask for help from the community as well as discuss game updates on the [s&box forums](https://sbox.game/f/).
 
 ## Security Exploits
 
@@ -35,7 +35,6 @@ For compatibility issues with Proton refer to [this issue](https://github.com/Va
 
 ## Other Resources
 
-* [Dev Blogs](https://sbox.facepunch.com/)
-* [sbox.game](https://sbox.game/)
-* [Wiki](https://wiki.facepunch.com/sbox/)
-* [Facepunch Docs](https://docs.facepunch.com/s/sbox-dev/doc/sbox-documentation-iWNhAIdqPB)
+* [s&box blogs](https://sbox.game/news/)
+* [s&box docs](https://sbox.game/dev/doc/)
+* [s&box forums](https://sbox.game/f/)
