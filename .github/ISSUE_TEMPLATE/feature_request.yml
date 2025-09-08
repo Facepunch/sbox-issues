@@ -1,6 +1,6 @@
 name: Feature request
 description: Suggest something you want to be able to do but can't.
-type: Enhancement
+type: Feature
 body:
   - type: textarea
     id: what-cant-you-do
